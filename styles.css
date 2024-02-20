@@ -1,10 +1,10 @@
-/* Your CSS Code here. */
+ /* Your CSS Code here. */
 #holder{
 	width:100vw;
 	height:20px;
 	font-size:50px;
 	display:flex;
-	flex-direction:row;
+	/* flex-direction:row; */
    justify-content:space-between;
 	flex-wrap:wrap;
 }
@@ -12,13 +12,13 @@
 	width:100px;
 	height:100px;
 	background-color:red;
-
+   order:2
 }
 .item2{
 	width:100px;
 	height:100px;
 	background-color:blue;
-	
+	order:3
 }
 .item3{
 	width:100px;
