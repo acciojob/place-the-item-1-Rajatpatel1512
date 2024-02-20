@@ -8,45 +8,45 @@
    justify-content:space-between;
 	flex-wrap:wrap;
 }
-.eg1{
+.item1{
 	width:100px;
 	height:100px;
 	background-color:red;
-	order:2;
+
 }
-.eg2{
+.item2{
 	width:100px;
 	height:100px;
 	background-color:blue;
-	order:3;
+	
 }
-.eg3{
+.item3{
 	width:100px;
 	height:100px;
 	background-color:green;
-	order:1;
+	
 }
-.eg4{
+.item4{
 	width:100px;
 	height:100px;
 	background-color:lavender;
-	order:2;
+	
 }
-.eg5{
+.item5{
 	width:100px;
 	height:100px;
 	background-color:khaki;
-	order:2;
+	
 }
-.eg6{
+.item6{
 	width:100px;
 	height:100px;
 	background-color:gray;
-	order:2;
+	
 }
-.eg7{
+.item7{
 	width:100px;
 	height:100px;
 	background-color:yellow;
-	order:2;
+	
 }
