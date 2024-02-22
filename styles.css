@@ -1,10 +1,14 @@
  /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
 #holder{
 	width:100vw;
 	height:20px;
 	font-size:50px;
 	display:flex;
-	/* flex-direction:row; */
+	flex-direction:row; 
    justify-content:space-between;
 	flex-wrap:wrap;
 }
@@ -24,29 +28,4 @@
 	width:100px;
 	height:100px;
 	background-color:green;
-	
-}
-.item4{
-	width:100px;
-	height:100px;
-	background-color:lavender;
-	
-}
-.item5{
-	width:100px;
-	height:100px;
-	background-color:khaki;
-	
-}
-.item6{
-	width:100px;
-	height:100px;
-	background-color:gray;
-	
-}
-.item7{
-	width:100px;
-	height:100px;
-	background-color:yellow;
-	
 }
